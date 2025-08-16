@@ -29,6 +29,7 @@ Ráda si hraju s vizuálními detaily, miluju výzvy a zkouším nové věci. Ne
 
 📌 **Vybrané projekty:**
 
+⛅ [Aplikace pro předpověď počasí](https://github.com/Alena0490/Weather-app)  - aplikace vpro předpověď počasí využívající API s možnstí customizace barev.
 🧩 [Nu, pogodi!](https://github.com/Alena0490/Nu-pogodi) – retro minihra inspirovaná herní konzolí z 80. let.
 🏋️ [Kruhač](https://github.com/Alena0490/Kruh-) – webové stránky kondičního cvičení.
 ✍️ [Lorem Ipsum generátor](https://github.com/Alena0490/Lorem-Ipsum-Generator) – jednoduchý nástroj pro generování textu (React).
