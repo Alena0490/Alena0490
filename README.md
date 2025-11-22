@@ -51,4 +51,5 @@ Zlepšovat se každý den, objevovat nové technologie a tvořit funkční, vizu
 
 📫 **Kontakt:**  
 LinkedIn: https://www.linkedin.com/in/alena-pumprov%C3%A1-274234107/, 
+Web: https://alena-pumprova.cz/,
 nebo klidně napiš zprávu k projektu 😊
