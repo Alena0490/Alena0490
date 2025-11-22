@@ -11,6 +11,7 @@ Ráda si hraju s vizuálními detaily, miluju výzvy a zkouším nové věci. Ne
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=plastic)  
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=plastic)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=plastic)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=plastic)  
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=plastic)  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic)  
