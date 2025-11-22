@@ -21,8 +21,8 @@ Ráda si hraju s vizuálními detaily, miluju výzvy a zkouším nové věci. Ne
 
 📚 **Co mám za sebou:**
 
-- Vlastní projekty v Reactu, Typescriptu a čistém JavaScriptu
-- Samostudium přes online kurzy a YouTube
+- Vlastní projekty v Reactu, TypeScriptu a čistém JavaScriptu
+- Samostudium přes online kurzy a YouTube, Skillmea nebo IT Network
 - Pracovní zkušenosti z oblasti **marketingu a SEO**
 - A  samozřejmě hromadu projektů
 
