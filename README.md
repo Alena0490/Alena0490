@@ -5,6 +5,11 @@ Ráda si hraju s vizuálními detaily, miluju výzvy a zkouším nové věci. Ne
 
 ---
 
+💚 **Open to work** - Feel free to reach out!
+```
+
+---
+
 🛠️ **Používám:**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic)  
