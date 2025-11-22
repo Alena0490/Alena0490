@@ -50,7 +50,6 @@ Zlepšovat se každý den, objevovat nové technologie a tvořit funkční, vizu
 ---
 
 💚 **Open to work** - Feel free to reach out!
-```
 
 📫 **Kontakt:**  
 LinkedIn: https://www.linkedin.com/in/alena-pumprov%C3%A1-274234107/, 
