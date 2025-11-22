@@ -1,6 +1,6 @@
 ### Ahoj! 👋 Jsem Alena
 
-🎨 **Self-taught front-end developer** s vášní pro design, animace a interaktivní prvky.  
+🎨 **Junior front-end developer** s vášní pro design, animace a interaktivní prvky.  
 Ráda si hraju s vizuálními detaily, miluju výzvy a zkouším nové věci. Nejvíc mě baví **CSS** a práce s efekty.
 
 ---
@@ -21,7 +21,7 @@ Ráda si hraju s vizuálními detaily, miluju výzvy a zkouším nové věci. Ne
 
 📚 **Co mám za sebou:**
 
-- Vlastní projekty v Reactu a čistém JavaScriptu
+- Vlastní projekty v Reactu, Typescriptu a čistém JavaScriptu
 - Samostudium přes online kurzy a YouTube
 - Pracovní zkušenosti z oblasti **marketingu a SEO**
 - A  samozřejmě hromadu projektů
