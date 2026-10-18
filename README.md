@@ -1,40 +1,24 @@
 ### Ahoj! 👋 Jsem Alena
 
-🎨 **Junior front-end developer** s vášní pro design, animace a interaktivní prvky.  
-Ráda si hraju s vizuálními detaily, miluju výzvy a zkouším nové věci. Nejvíc mě baví **CSS** a práce s efekty.
+🎨 **Frontend Developer** se zaměřením na React a TypeScript s přesahy do UI/UX designu, 3D grafiky na webu a marketingu. 
 
----
+Baví mě propojovat technicky náročnou logiku s vizuálními detaily a animacemi. Díky předchozí praxi jako Product Specialistka skvěle rozumím agilnímu vývoji (Scrum), práci v Jira a efektivní komunikaci uvnitř vývojového týmu.
 
-🛠️ **Používám:**
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=plastic)  
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=plastic)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=plastic)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=plastic)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=plastic)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=plastic)
-
----
-
-📚 **Co mám za sebou:**
-
-- Vlastní projekty v Reactu, TypeScriptu a čistém JavaScriptu
-- Samostudium přes online kurzy a YouTube, Skillmea nebo IT Network
-- Pracovní zkušenosti z oblasti **marketingu a SEO**
-- A  samozřejmě hromadu projektů
+🛠 **Tech Stack:**
+- **Frontend:** React, TypeScript, JavaScript (ES6+), HTML5, CSS3/SCSS, Tailwind CSS, Styled Components
+- **Web 3D & Animace:** React Three Fiber (základy 3D renderingu)
+- **Backend & Data:** Google Firebase (Auth, Firestore), REST APIs, Ollama API
+- **Tools & Metodiky:** Git, Scrum, Jira, MS Azure, Figma, SEO & Google Analytics
 
 ---
 
 📌 **Vybrané projekty:**
 
-⛅ [Aplikace pro předpověď počasí](https://github.com/Alena0490/Weather-app)  - aplikace vpro předpověď počasí využívající API s možnstí customizace barev.
+⛅ [Aplikace pro předpověď počasí](https://github.com/Alena0490/Weather-app)  – aplikace pro předpověď počasí využívající API s možností customizace barev.
 🧩 [Nu, pogodi!](https://github.com/Alena0490/Nu-pogodi) – retro minihra inspirovaná herní konzolí z 80. let.
 🏋️ [Kruhač](https://github.com/Alena0490/Kruh-) – webové stránky kondičního cvičení.
 ✍️ [Lorem Ipsum generátor](https://github.com/Alena0490/Lorem-Ipsum-Generator) – jednoduchý nástroj pro generování textu (React).
-⚓ [Steampunk Web](https://github.com/Alena0490/20000-Leagues)  - webové stránky ve stylu román 20 000 mil pod mořem.
+⚓ [Steampunk Web](https://github.com/Alena0490/20000-Leagues)  - webové stránky ve stylu románu 20 000 mil pod mořem.
 
 ---
 
@@ -52,8 +36,8 @@ Zlepšovat se každý den, objevovat nové technologie a tvořit funkční, vizu
 💚 **Open to work** - Feel free to reach out!
 
 📫 **Kontakt:**  
-LinkedIn: https://www.linkedin.com/in/alena-pumprov%C3%A1-274234107/, 
+LinkedIn: https://www.linkedin.com/in/alena-pumprov%C3%A1-274234107/
 
 Web: https://alena-pumprova.cz/
 
-nebo klidně napiš zprávu k projektu 😊
+Nebo klidně napiš zprávu k projektu 😊
